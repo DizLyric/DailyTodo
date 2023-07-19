@@ -10,7 +10,7 @@
 ![main](./screenshots/main.png)
 ![list](./screenshots/list.png)
 ![deleted](./screenshots/deleted.png)
-![taks](./screenshots/taks.png)
+![taks](./screenshots/task.png)
 ![add](./screenshots/add.png)
 
 ## О проекте
