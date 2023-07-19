@@ -6,6 +6,13 @@
 
 ---
 
+## Скриншоты
+<img src="./screenshots/main.png" alt="main" width="30%" />
+<img src="./screenshots/list.png" alt="list" width="30%" />
+<img src="./screenshots/deleted.png" alt="deleted" width="30%" />
+<img src="./screenshots/add.png" alt="add" width="30%" />
+<img src="./screenshots/taks.png" alt=""taks width="30%" />
+
 ## О проекте
 Проект был создан как тестовое задание для компании MediaSoft.
 А также является моим первым проектом на VueJS.
