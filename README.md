@@ -7,11 +7,11 @@
 ---
 
 ## Скриншоты
-<img src="./screenshots/main.png" alt="main" width="30%" />
-<img src="./screenshots/list.png" alt="list" width="30%" />
-<img src="./screenshots/deleted.png" alt="deleted" width="30%" />
-<img src="./screenshots/add.png" alt="add" width="30%" />
-<img src="./screenshots/taks.png" alt=""taks width="30%" />
+![main](./screenshots/main.png)
+![list](./screenshots/list.png)
+![deleted](./screenshots/deleted.png)
+![taks](./screenshots/task.png)
+![add](./screenshots/add.png)
 
 ## О проекте
 Проект был создан как тестовое задание для компании MediaSoft.
